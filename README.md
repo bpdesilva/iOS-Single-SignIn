@@ -32,5 +32,5 @@ For setting up a Twitter Developer Project :https://apps.twitter.com/  <br />
   
 ### Twitter SiginIn
 
-  pod 'TwitterKit<br />'
+  pod 'TwitterKit' <br />
 Some Of the above may require configurations with you project 	**Bundle ID** and changes to **info.plist** file.
