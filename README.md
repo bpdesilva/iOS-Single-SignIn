@@ -40,6 +40,4 @@ Some Of the above may require configurations with you project **Bundle ID** and 
 <br />
 <br />
 <br />
-<p align="center">
 ![alternativetext](https://github.com/bpdesilva/iOS-Single-SignIn/blob/master/Final.png)
-</p>
