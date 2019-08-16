@@ -1,4 +1,4 @@
-# iOS Single SignIn Demos 
+# iOS Single SignIn Demos [![GitHub version](https://badge.fury.io/gh/bpdesilva%2FiOS-Single-SignIn.svg)](https://badge.fury.io/gh/bpdesilva%2FiOS-Single-SignIn)
 
 ##### Requires Google Firebase Account
 ##### Requires Google Firebase Project
